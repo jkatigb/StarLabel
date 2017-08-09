@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarLabel</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_star_wars_main">StarWarsMainActivity</string>
+</resources>
